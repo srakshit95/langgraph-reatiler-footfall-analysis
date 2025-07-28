@@ -1,4 +1,4 @@
-# Clothing Store Competitor Footfall Analysis (LangGraph)  
+# Clothing Store Competitor Footfall Analysis using Multi-Agents  
 **AI pipeline analyzing competitor store traffic trends using LLM + search orchestration**
 
 ---
